@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.ionicframework.com	TRUE	/	FALSE	1999999999	__cfduid	d95c744ca8c3408b66582787e92f448ac1568353448
+dokari.co.id	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+

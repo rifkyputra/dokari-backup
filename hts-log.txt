@@ -1,0 +1,46 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 13 Sep 2019 12:43:51 at dokari.co.id +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*[name].https://dokari.co.id//* +*[name].dokari.co.id/*
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0R3H0%kf2A25000%f0#f -F  -%l "en, *" dokari.co.id -O1 "G:\Others\Httrack websites\dokari" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*[name].https://dokari.co.id//* +*[name].dokari.co.id/* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:43:51	Warning: 	Cache: damaged cache, trying to repair
+12:43:51	Warning: 	Cache: 0 bytes successfully recovered in 0 entries
+12:43:51	Warning: 	Cache: error trying to open the cache
+12:44:54	Error: 	"Bad Request" (400) at link dokari.co.id/wp-admin/admin-ajax.php (from dokari.co.id/)
+12:45:05	Error: 	"Method Not Allowed" (405) at link dokari.co.id/xmlrpc.php (from dokari.co.id/)
+12:45:56	Error: 	"Not Found" (404) at link dokaricoid-on.cloud.revoluz.io/wp-content/uploads/2017/09/Gunung-Krakatau-300x134.jpg (from dokari.co.id/)
+12:46:09	Error: 	"Unable to get server's address: unknown error" (-5) after 3 retries at link mymail.dokari.co.id/robots.txt (from dokari.co.id/)
+12:46:09	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link mymail.dokari.co.id/ (from dokari.co.id/)
+12:47:18	Error: 	"Not Found" (404) at link dokari.co.id/wp-content/themes/showcase-pro/css/images/bx_loader.gif (from dokari.co.id/wp-content/themes/showcase-pro/css/bxslider.css?ver=5.1.2)
+12:47:18	Error: 	"Not Found" (404) at link dokari.co.id/wp-content/themes/showcase-pro/css/images/controls.png (from dokari.co.id/wp-content/themes/showcase-pro/css/bxslider.css?ver=5.1.2)
+12:47:18	Warning: 	Moved Permanently for dokari.co.id/?p=56
+12:47:18	Warning: 	File has moved from dokari.co.id/?p=56 to http://dokari.co.id/harga-tiket-2/
+12:47:18	Warning: 	Moved Permanently for dokari.co.id/?p=43
+12:47:18	Warning: 	File has moved from dokari.co.id/?p=43 to http://dokari.co.id/pesan-tiket/
+12:47:18	Warning: 	Moved Permanently for dokari.co.id/?p=41
+12:47:18	Warning: 	File has moved from dokari.co.id/?p=41 to http://dokari.co.id/tentang-kami/
+12:47:18	Warning: 	Moved Permanently for dokari.co.id/?p=38
+12:47:18	Warning: 	File has moved from dokari.co.id/?p=38 to http://dokari.co.id/customer-service/
+12:47:18	Warning: 	Moved Permanently for dokari.co.id/?p=277
+12:47:18	Warning: 	File has moved from dokari.co.id/?p=277 to http://dokari.co.id/cara-pesan-tiket-travel-lampung-di-dokari-tranz/
+12:47:30	Warning: 	Moved Permanently for dokari.co.id/?p=231
+12:47:30	Warning: 	File has moved from dokari.co.id/?p=231 to http://dokari.co.id/armada-mobil/
+12:47:30	Warning: 	Moved Permanently for dokari.co.id/?p=217
+12:47:30	Warning: 	File has moved from dokari.co.id/?p=217 to http://dokari.co.id/menikmati-perjalanan-travel-lampung-dokari-tranz/
+12:47:53	Warning: 	Moved Permanently for dokari.co.id/?p=215
+12:47:53	Warning: 	File has moved from dokari.co.id/?p=215 to http://dokari.co.id/kenapa-pp-jakarta-lampung-dengan-dokari-tranz/
+12:47:58	Warning: 	Moved Permanently for dokari.co.id/?p=101
+12:47:58	Warning: 	File has moved from dokari.co.id/?p=101 to http://dokari.co.id/promo/
+12:48:04	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link mymail.dokari.co.id/ (from dokari.co.id/)
+12:48:11	Warning: 	Moved Permanently for dokari.co.id/?p=106
+12:48:11	Warning: 	File has moved from dokari.co.id/?p=106 to http://dokari.co.id/form-pendaftaran-promo-jalan-jalan-gratis/
+12:48:11	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link mymail.dokari.co.id/ (from dokari.co.id/)
+12:48:11	Warning: 	Moved Permanently for dokari.co.id/?p=48
+12:48:11	Warning: 	File has moved from dokari.co.id/?p=48 to http://dokari.co.id/travel-agent-jakarta-lampung/
+12:48:12	Error: 	"Unable to get server's address: unknown error" (-5) after 3 retries at link mymail.dokari.co.id/ (from dokari.co.id/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 23 seconds : 245 links scanned, 223 files written (7004387 bytes overall) [6386587 bytes received at 24283 bytes/sec], 981951 bytes transferred using HTTP compression in 42 files, ratio 29%, 5.8 requests per connection
+(7 errors, 28 warnings, 0 messages)
